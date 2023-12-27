@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '31548'
     url: http://www.gutenberg.org/2009/agents/31548
     wikipedia: https://en.wikipedia.org/wiki/Percy_Spence
+covers:
+- cover_type: archival
+  image_path: 72319-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Favenc, Ernest
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2359
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Favenc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72319#The-secret-of-the-Australian-desert
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72319'
